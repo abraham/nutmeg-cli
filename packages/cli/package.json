@@ -72,7 +72,7 @@
     "karma-typescript-es6-transform": "5.5.1",
     "karma-webpack": "5.0.0",
     "lodash.template": "4.5.0",
-    "mocha": "8.1.3",
+    "mocha": "9.0.2",
     "pascal-case": "3.1.2",
     "recursive-copy": "2.0.13",
     "shelljs": "0.8.4",
