@@ -61,7 +61,7 @@
     "karma-typescript-es6-transform": "5.5.1",
     "mocha": "8.1.3",
     "sinon": "11.1.1",
-    "typescript": "4.2.4",
+    "typescript": "4.3.5",
     "webpack": "5.45.1",
     "webpack-bundle-analyzer": "4.4.2",
     "webpack-cli": "4.7.2"
